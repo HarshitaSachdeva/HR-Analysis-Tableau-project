@@ -1,4 +1,4 @@
-https://github.com/HarshitaSachdeva/HR-Analysis-Tableau-project/blob/main/HR%20Analysis/HR.jpeg
+
 #  HR Analysis Dashboard in Tableau  
 
 ## 📊 Project Overview  
@@ -60,6 +60,4 @@ It empowers HR teams to make **data-driven decisions** for employee retention, h
 - **Excel / CSV** → Data preprocessing  
 - **GitHub** → Project documentation  
 
----
 
-## 📑 Project Structure
